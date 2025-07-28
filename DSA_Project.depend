@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706033676 source:c:\users\developer\desktop\dsa_project\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<algorithm>
+
